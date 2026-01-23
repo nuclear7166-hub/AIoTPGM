@@ -2,3 +2,8 @@
 <hr/>
 
 AIoT 프로그래밍
+<hr/>
+
+* ### python
+* ### Open CV
+* ### YOLO
