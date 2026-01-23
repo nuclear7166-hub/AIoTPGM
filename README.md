@@ -1,19 +1,3 @@
-# AIoTPGM 반도체 설계 Academy
-<hr/>
-
-AIoT 프로그래밍
-<hr/>
-
-* ### python
-* ### Open CV
-* ### YOLO
-* ### AI PGM
-  + numpy
-  + pandas
-  + matplotlib
-  + tensorflow
-  + keras
- 
 # AI & Computer Vision Practice
 
 이 레포지토리는 **Python 기반 AI 및 컴퓨터 비전 기술**을 학습하고 연습하며 작성한 코드들을 정리한 공간입니다.  
