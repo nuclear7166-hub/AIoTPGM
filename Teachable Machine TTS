@@ -13,7 +13,7 @@
 </head>
 <body>
 
-    <h2>📱 모바일 AI 가위바위보</h2>
+    <h2> 모바일 AI 가위바위보</h2>
     <button type="button" onclick="init()">시작하기 (Start)</button>
     
     <div id="webcam-container"></div>
